@@ -1,0 +1,13 @@
+[
+    {
+        "difficulty_level": "B1",
+        "lesson_number": "33",
+        "lesson_topic": "Greetings & Introductions",
+        "topic_id": "660bf085be46f7542",
+"audio_title": "Päivä Suomen suurimmassa kaupungissa",
+
+        "audio_link": "https:\/\/api.spreaker.com\/v2\/episodes\/57671385\/download.mp3",
+        "audio_imageUrl": "https://images.unsplash.com/photo-1483737489035-78c01af155f1?blend=000000&blend-alpha=10&blend-mode=normal&blend-w=1&crop=faces%2Cedges&h=630&mark=https%3A%2F%2Fimages.unsplash.com%2Fopengraph%2Flogo.png&mark-align=top%2Cleft&mark-pad=50&mark-w=64&w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
+        "description": "In this episode, we explore how to create a JSON file for storing podcast information."
+    }
+]
